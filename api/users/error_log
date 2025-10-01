@@ -1,0 +1,20 @@
+[30-Sep-2025 22:59:12 UTC] PHP Warning:  Undefined variable $conn in /home/pgritawa/public_html/project.mastanto.my.id/api/users/index.php on line 33
+[30-Sep-2025 22:59:12 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/pgritawa/public_html/project.mastanto.my.id/api/users/index.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/pgritawa/public_html/project.mastanto.my.id/api/users/index.php on line 33
+[30-Sep-2025 22:59:16 UTC] PHP Warning:  Undefined variable $conn in /home/pgritawa/public_html/project.mastanto.my.id/api/users/index.php on line 33
+[30-Sep-2025 22:59:16 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/pgritawa/public_html/project.mastanto.my.id/api/users/index.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/pgritawa/public_html/project.mastanto.my.id/api/users/index.php on line 33
+[01-Oct-2025 08:13:07 UTC] PHP Warning:  require_once(/home/pgritawa/public_html/project.mastanto.my.id/api/users/../middleware/auth_middleware.php): Failed to open stream: No such file or directory in /home/pgritawa/public_html/project.mastanto.my.id/api/users/index.php on line 3
+[01-Oct-2025 08:13:07 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/pgritawa/public_html/project.mastanto.my.id/api/users/../middleware/auth_middleware.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/pgritawa/public_html/project.mastanto.my.id/api/users/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/pgritawa/public_html/project.mastanto.my.id/api/users/index.php on line 3
+[01-Oct-2025 08:16:14 UTC] PHP Warning:  require_once(/home/pgritawa/public_html/project.mastanto.my.id/api/users/../middleware/auth_middleware.php): Failed to open stream: No such file or directory in /home/pgritawa/public_html/project.mastanto.my.id/api/users/index.php on line 3
+[01-Oct-2025 08:16:14 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/pgritawa/public_html/project.mastanto.my.id/api/users/../middleware/auth_middleware.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/pgritawa/public_html/project.mastanto.my.id/api/users/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/pgritawa/public_html/project.mastanto.my.id/api/users/index.php on line 3

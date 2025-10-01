@@ -1,0 +1,114 @@
+[01-Oct-2025 07:14:13 UTC] PHP Fatal error:  Uncaught ArgumentCountError: define() expects at least 2 arguments, 1 given in /home/pgritawa/public_html/project.mastanto.my.id/api/config/database.php:28
+Stack trace:
+#0 /home/pgritawa/public_html/project.mastanto.my.id/api/config/database.php(28): define()
+#1 /home/pgritawa/public_html/project.mastanto.my.id/api/index.php(2): require_once('/home/pgritawa/...')
+#2 {main}
+  thrown in /home/pgritawa/public_html/project.mastanto.my.id/api/config/database.php on line 28
+[01-Oct-2025 07:14:18 UTC] PHP Fatal error:  Uncaught ArgumentCountError: define() expects at least 2 arguments, 1 given in /home/pgritawa/public_html/project.mastanto.my.id/api/config/database.php:28
+Stack trace:
+#0 /home/pgritawa/public_html/project.mastanto.my.id/api/config/database.php(28): define()
+#1 /home/pgritawa/public_html/project.mastanto.my.id/api/index.php(2): require_once('/home/pgritawa/...')
+#2 {main}
+  thrown in /home/pgritawa/public_html/project.mastanto.my.id/api/config/database.php on line 28
+[01-Oct-2025 07:14:19 UTC] PHP Fatal error:  Uncaught ArgumentCountError: define() expects at least 2 arguments, 1 given in /home/pgritawa/public_html/project.mastanto.my.id/api/config/database.php:28
+Stack trace:
+#0 /home/pgritawa/public_html/project.mastanto.my.id/api/config/database.php(28): define()
+#1 /home/pgritawa/public_html/project.mastanto.my.id/api/index.php(2): require_once('/home/pgritawa/...')
+#2 {main}
+  thrown in /home/pgritawa/public_html/project.mastanto.my.id/api/config/database.php on line 28
+[01-Oct-2025 07:14:20 UTC] PHP Fatal error:  Uncaught ArgumentCountError: define() expects at least 2 arguments, 1 given in /home/pgritawa/public_html/project.mastanto.my.id/api/config/database.php:28
+Stack trace:
+#0 /home/pgritawa/public_html/project.mastanto.my.id/api/config/database.php(28): define()
+#1 /home/pgritawa/public_html/project.mastanto.my.id/api/index.php(2): require_once('/home/pgritawa/...')
+#2 {main}
+  thrown in /home/pgritawa/public_html/project.mastanto.my.id/api/config/database.php on line 28
+[01-Oct-2025 07:14:20 UTC] PHP Fatal error:  Uncaught ArgumentCountError: define() expects at least 2 arguments, 1 given in /home/pgritawa/public_html/project.mastanto.my.id/api/config/database.php:28
+Stack trace:
+#0 /home/pgritawa/public_html/project.mastanto.my.id/api/config/database.php(28): define()
+#1 /home/pgritawa/public_html/project.mastanto.my.id/api/index.php(2): require_once('/home/pgritawa/...')
+#2 {main}
+  thrown in /home/pgritawa/public_html/project.mastanto.my.id/api/config/database.php on line 28
+[01-Oct-2025 07:14:27 UTC] PHP Fatal error:  Uncaught ArgumentCountError: define() expects at least 2 arguments, 1 given in /home/pgritawa/public_html/project.mastanto.my.id/api/config/database.php:28
+Stack trace:
+#0 /home/pgritawa/public_html/project.mastanto.my.id/api/config/database.php(28): define()
+#1 /home/pgritawa/public_html/project.mastanto.my.id/api/index.php(2): require_once('/home/pgritawa/...')
+#2 {main}
+  thrown in /home/pgritawa/public_html/project.mastanto.my.id/api/config/database.php on line 28
+[01-Oct-2025 07:17:31 UTC] PHP Fatal error:  Uncaught ArgumentCountError: define() expects at least 2 arguments, 1 given in /home/pgritawa/public_html/project.mastanto.my.id/api/config/database.php:28
+Stack trace:
+#0 /home/pgritawa/public_html/project.mastanto.my.id/api/config/database.php(28): define()
+#1 /home/pgritawa/public_html/project.mastanto.my.id/api/index.php(2): require_once('/home/pgritawa/...')
+#2 {main}
+  thrown in /home/pgritawa/public_html/project.mastanto.my.id/api/config/database.php on line 28
+[01-Oct-2025 07:19:12 UTC] PHP Fatal error:  Uncaught ArgumentCountError: define() expects at least 2 arguments, 1 given in /home/pgritawa/public_html/project.mastanto.my.id/api/config/database.php:28
+Stack trace:
+#0 /home/pgritawa/public_html/project.mastanto.my.id/api/config/database.php(28): define()
+#1 /home/pgritawa/public_html/project.mastanto.my.id/api/index.php(2): require_once('/home/pgritawa/...')
+#2 {main}
+  thrown in /home/pgritawa/public_html/project.mastanto.my.id/api/config/database.php on line 28
+[01-Oct-2025 07:19:54 UTC] PHP Fatal error:  Uncaught ArgumentCountError: define() expects at least 2 arguments, 1 given in /home/pgritawa/public_html/project.mastanto.my.id/api/config/database.php:28
+Stack trace:
+#0 /home/pgritawa/public_html/project.mastanto.my.id/api/config/database.php(28): define()
+#1 /home/pgritawa/public_html/project.mastanto.my.id/api/index.php(2): require_once('/home/pgritawa/...')
+#2 {main}
+  thrown in /home/pgritawa/public_html/project.mastanto.my.id/api/config/database.php on line 28
+[01-Oct-2025 07:19:54 UTC] PHP Fatal error:  Uncaught ArgumentCountError: define() expects at least 2 arguments, 1 given in /home/pgritawa/public_html/project.mastanto.my.id/api/config/database.php:28
+Stack trace:
+#0 /home/pgritawa/public_html/project.mastanto.my.id/api/config/database.php(28): define()
+#1 /home/pgritawa/public_html/project.mastanto.my.id/api/index.php(2): require_once('/home/pgritawa/...')
+#2 {main}
+  thrown in /home/pgritawa/public_html/project.mastanto.my.id/api/config/database.php on line 28
+[01-Oct-2025 07:19:55 UTC] PHP Fatal error:  Uncaught ArgumentCountError: define() expects at least 2 arguments, 1 given in /home/pgritawa/public_html/project.mastanto.my.id/api/config/database.php:28
+Stack trace:
+#0 /home/pgritawa/public_html/project.mastanto.my.id/api/config/database.php(28): define()
+#1 /home/pgritawa/public_html/project.mastanto.my.id/api/index.php(2): require_once('/home/pgritawa/...')
+#2 {main}
+  thrown in /home/pgritawa/public_html/project.mastanto.my.id/api/config/database.php on line 28
+[01-Oct-2025 07:19:55 UTC] PHP Fatal error:  Uncaught ArgumentCountError: define() expects at least 2 arguments, 1 given in /home/pgritawa/public_html/project.mastanto.my.id/api/config/database.php:28
+Stack trace:
+#0 /home/pgritawa/public_html/project.mastanto.my.id/api/config/database.php(28): define()
+#1 /home/pgritawa/public_html/project.mastanto.my.id/api/index.php(2): require_once('/home/pgritawa/...')
+#2 {main}
+  thrown in /home/pgritawa/public_html/project.mastanto.my.id/api/config/database.php on line 28
+[01-Oct-2025 07:22:55 UTC] PHP Fatal error:  Uncaught ArgumentCountError: define() expects at least 2 arguments, 1 given in /home/pgritawa/public_html/project.mastanto.my.id/api/config/database.php:28
+Stack trace:
+#0 /home/pgritawa/public_html/project.mastanto.my.id/api/config/database.php(28): define()
+#1 /home/pgritawa/public_html/project.mastanto.my.id/api/index.php(2): require_once('/home/pgritawa/...')
+#2 {main}
+  thrown in /home/pgritawa/public_html/project.mastanto.my.id/api/config/database.php on line 28
+[01-Oct-2025 07:24:17 UTC] PHP Fatal error:  Uncaught ArgumentCountError: define() expects at least 2 arguments, 1 given in /home/pgritawa/public_html/project.mastanto.my.id/api/config/database.php:28
+Stack trace:
+#0 /home/pgritawa/public_html/project.mastanto.my.id/api/config/database.php(28): define()
+#1 /home/pgritawa/public_html/project.mastanto.my.id/api/index.php(2): require_once('/home/pgritawa/...')
+#2 {main}
+  thrown in /home/pgritawa/public_html/project.mastanto.my.id/api/config/database.php on line 28
+[01-Oct-2025 07:36:09 UTC] PHP Fatal error:  Uncaught ArgumentCountError: define() expects at least 2 arguments, 1 given in /home/pgritawa/public_html/project.mastanto.my.id/api/config/database.php:28
+Stack trace:
+#0 /home/pgritawa/public_html/project.mastanto.my.id/api/config/database.php(28): define()
+#1 /home/pgritawa/public_html/project.mastanto.my.id/api/index.php(2): require_once('/home/pgritawa/...')
+#2 {main}
+  thrown in /home/pgritawa/public_html/project.mastanto.my.id/api/config/database.php on line 28
+[01-Oct-2025 07:37:48 UTC] PHP Fatal error:  Uncaught ArgumentCountError: define() expects at least 2 arguments, 1 given in /home/pgritawa/public_html/project.mastanto.my.id/api/config/database.php:28
+Stack trace:
+#0 /home/pgritawa/public_html/project.mastanto.my.id/api/config/database.php(28): define()
+#1 /home/pgritawa/public_html/project.mastanto.my.id/api/index.php(2): require_once('/home/pgritawa/...')
+#2 {main}
+  thrown in /home/pgritawa/public_html/project.mastanto.my.id/api/config/database.php on line 28
+[01-Oct-2025 07:38:20 UTC] PHP Fatal error:  Uncaught ArgumentCountError: define() expects at least 2 arguments, 1 given in /home/pgritawa/public_html/project.mastanto.my.id/api/config/database.php:28
+Stack trace:
+#0 /home/pgritawa/public_html/project.mastanto.my.id/api/config/database.php(28): define()
+#1 /home/pgritawa/public_html/project.mastanto.my.id/api/index.php(2): require_once('/home/pgritawa/...')
+#2 {main}
+  thrown in /home/pgritawa/public_html/project.mastanto.my.id/api/config/database.php on line 28
+[01-Oct-2025 07:38:23 UTC] PHP Fatal error:  Uncaught ArgumentCountError: define() expects at least 2 arguments, 1 given in /home/pgritawa/public_html/project.mastanto.my.id/api/config/database.php:28
+Stack trace:
+#0 /home/pgritawa/public_html/project.mastanto.my.id/api/config/database.php(28): define()
+#1 /home/pgritawa/public_html/project.mastanto.my.id/api/index.php(2): require_once('/home/pgritawa/...')
+#2 {main}
+  thrown in /home/pgritawa/public_html/project.mastanto.my.id/api/config/database.php on line 28
+[01-Oct-2025 07:38:24 UTC] PHP Fatal error:  Uncaught ArgumentCountError: define() expects at least 2 arguments, 1 given in /home/pgritawa/public_html/project.mastanto.my.id/api/config/database.php:28
+Stack trace:
+#0 /home/pgritawa/public_html/project.mastanto.my.id/api/config/database.php(28): define()
+#1 /home/pgritawa/public_html/project.mastanto.my.id/api/index.php(2): require_once('/home/pgritawa/...')
+#2 {main}
+  thrown in /home/pgritawa/public_html/project.mastanto.my.id/api/config/database.php on line 28
